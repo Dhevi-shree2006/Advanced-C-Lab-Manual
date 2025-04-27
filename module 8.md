@@ -4,8 +4,7 @@ Aim:
 To write a C program print the lowercase English word corresponding to the number
 
 Algorithm:
-1.	Start
-- Initialize an integer variable n.
+1.	Start- Initialize an integer variable n.
 2.	Input Validation
 3.	Switch Statement cases.
 -	Case 5: Print "seventy one"
